@@ -19,17 +19,22 @@ A beautiful, bilingual (French/English) artist portfolio website showcasing cont
 
 ```
 alexi-delfieux-portfolio/
-├── static-website/          # Ready-to-deploy static files (HTML/CSS/JS)
+├── standalone-editable/    # ⭐⭐⭐ BEST: Pure HTML/JS - TRULY EDITABLE!
+│   ├── index.html          # Main website file
+│   ├── app.js              # JavaScript code  
+│   ├── data.json           # ✏️ EDIT THIS FILE - See changes immediately!
+│   └── README-STANDALONE.md # Complete guide
+│
+├── static-website/          # Ready-to-deploy static files (React compiled)
 │   ├── index.html
 │   ├── static/
 │   │   ├── css/
 │   │   └── js/
 │   └── README-DEPLOYMENT.txt
 │
-├── static-v2/              # ✨ NEW: Editable static version (No rebuild needed!)
+├── static-v2/              # Editable attempt (doesn't work - use standalone instead)
 │   ├── index.html
-│   ├── website-data.js     # ← Edit this file to change content!
-│   ├── EDITING-GUIDE.md    # Complete editing instructions
+│   ├── website-data.js     
 │   └── static/
 │
 └── source-code/             # React source code for customization
@@ -45,7 +50,34 @@ alexi-delfieux-portfolio/
 
 ## 🚀 Quick Deploy
 
-### ⭐ Recommended: Static V2 (Editable Version)
+### ⭐⭐⭐ BEST: standalone-editable/ (TRULY Editable!)
+
+**✅ TESTED & WORKING - Edit without any build process!**
+
+This is a pure HTML/CSS/JavaScript version with NO React:
+1. **Edit `data.json`** in any text editor
+2. Upload files to your server
+3. **See changes immediately!**
+
+**What you can edit:**
+- ✏️ All artworks (add/remove/modify)
+- ✏️ Prices (just change numbers)
+- ✏️ Mark as sold (change true to false)
+- ✏️ Contact details
+- ✏️ All text (FR & EN)
+- ✏️ Images (change URLs)
+
+**Perfect for non-technical users!**
+- No Node.js needed
+- No build process
+- No React
+- Just edit JSON and upload!
+
+See `README-STANDALONE.md` for detailed instructions.
+
+---
+
+### Option 2: Static V2 (Editable Version)
 
 **Perfect if you want to easily edit content without rebuilding!**
 
