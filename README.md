@@ -26,6 +26,12 @@ alexi-delfieux-portfolio/
 │   │   └── js/
 │   └── README-DEPLOYMENT.txt
 │
+├── static-v2/              # ✨ NEW: Editable static version (No rebuild needed!)
+│   ├── index.html
+│   ├── website-data.js     # ← Edit this file to change content!
+│   ├── EDITING-GUIDE.md    # Complete editing instructions
+│   └── static/
+│
 └── source-code/             # React source code for customization
     ├── src/
     │   ├── components/
@@ -37,9 +43,34 @@ alexi-delfieux-portfolio/
     └── tailwind.config.js
 ```
 
-## 🚀 Quick Deploy (Static Website)
+## 🚀 Quick Deploy
 
-### Option 1: Deploy to OVH Hosting
+### ⭐ Recommended: Static V2 (Editable Version)
+
+**Perfect if you want to easily edit content without rebuilding!**
+
+1. Go to the `static-v2` folder
+2. **Edit `website-data.js`** to update:
+   - Artworks (add/remove/modify)
+   - Prices and availability
+   - Contact information
+   - Artist bio and text
+3. Upload all files to your OVH hosting
+4. Done! No build process needed
+
+**What you can edit:**
+- ✏️ All artworks with one file
+- ✏️ Prices (just change numbers)
+- ✏️ Mark items as sold
+- ✏️ Contact details
+- ✏️ All text in French & English
+- ✏️ Images (change URLs)
+
+See `EDITING-GUIDE.md` in the `static-v2` folder for detailed instructions.
+
+---
+
+### Option 1: Deploy Static Website (Original)
 
 1. Navigate to the `static-website` folder
 2. Download all files
