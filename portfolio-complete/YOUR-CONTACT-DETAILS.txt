@@ -1,0 +1,84 @@
+==========================================
+YOUR CONTACT DETAILS
+==========================================
+
+Please fill in your real contact information below.
+I will update the website with these details.
+
+==========================================
+CONTACT INFORMATION
+==========================================
+
+Full Name: Alexi Delfieux
+
+Phone: 
+(Example: +33 6 12 34 56 78)
+
+Email: 
+(Example: alexi.delfieux@gmail.com)
+
+Location: 
+(Example: Paris, France)
+
+==========================================
+SOCIAL MEDIA
+==========================================
+
+Instagram: 
+(Full URL, example: https://instagram.com/yourhandle)
+
+Facebook: 
+(Full URL, example: https://facebook.com/yourpage)
+(Leave blank if you don't have one)
+
+Twitter/X: 
+(Full URL, example: https://twitter.com/yourhandle)
+(Leave blank if you don't have one)
+
+Other Social Media:
+(Any other platforms you want to add?)
+
+==========================================
+ARTIST BIO (Optional Updates)
+==========================================
+
+If you want to update your bio text, you can write it here:
+
+English Bio Update:
+(Leave blank to keep current bio)
+
+
+French Bio Update:
+(Leave blank to keep current bio)
+
+
+==========================================
+EXHIBITIONS (Optional)
+==========================================
+
+Any exhibitions to add? List them here:
+
+Year: 
+Title: 
+Location: 
+Description (English): 
+Description (French): 
+
+==========================================
+ARTWORK UPDATES (Optional)
+==========================================
+
+Any artworks to mark as SOLD?
+List the artwork IDs or titles:
+
+
+Any price changes?
+Artwork → New Price:
+
+
+==========================================
+
+Once you fill this out and save it to GitHub,
+just let me know and I'll update everything!
+
+==========================================
