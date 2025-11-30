@@ -563,12 +563,10 @@ export const translations = {
 };
 
 export const contactInfo = {
-  phone: '+33 6 12 34 56 78',
-  email: 'alexi.delfieux@example.com',
-  location: 'Paris, France / Sydney, Australia',
-  instagram: 'https://instagram.com/alexidelfieux',
-  facebook: 'https://facebook.com/alexidelfieux',
-  twitter: 'https://twitter.com/alexidelfieux'
+  phone: '+33 6 64 25 28 13 / +61 480 470 621',
+  email: 'delfieux.alexi@gmail.com',
+  location: 'Paris, France / Melbourne, Australia',
+  instagram: 'https://instagram.com/mozer.paint'
 };
 
 export const exhibitions = [
