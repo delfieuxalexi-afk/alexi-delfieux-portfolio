@@ -9,7 +9,7 @@ export const artworks = [
     price: 300,
     available: false,
     series: "early-mozer",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/lionjah.jpg"
+    image: "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=800"
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ export const artworks = [
     price: 250,
     available: true,
     series: "early-mozer",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/oze.jpg"
+    image: "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800"
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ export const artworks = [
     price: 350,
     available: true,
     series: "early-mozer",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/goldjungle.jpg"
+    image: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=800"
   },
   {
     id: 4,
@@ -45,7 +45,7 @@ export const artworks = [
     price: 200,
     available: true,
     series: "early-mozer",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/bloodymusic.jpg"
+    image: "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?w=800"
   },
   {
     id: 5,
@@ -57,7 +57,7 @@ export const artworks = [
     price: 1600,
     available: false,
     series: "early-mozer",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/mozer.jpg"
+    image: "https://images.unsplash.com/photo-1555448248-2571daf6344b?w=800"
   },
   {
     id: 6,
@@ -81,7 +81,7 @@ export const artworks = [
     price: 200,
     available: true,
     series: "early-mozer",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/mozmass.jpg"
+    image: "https://images.unsplash.com/photo-1549887534-1541e9326642?w=800"
   },
   {
     id: 8,
@@ -93,7 +93,7 @@ export const artworks = [
     price: 200,
     available: true,
     series: "early-mozer",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/massmoz.jpg"
+    image: "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?w=800"
   },
   {
     id: 9,
@@ -105,7 +105,7 @@ export const artworks = [
     price: 450,
     available: false,
     series: "origins-totems",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/mozercave.jpg",
+    image: "https://images.unsplash.com/photo-1536924940846-227afb31e2a5?w=800",
     description_en: "From my early 'Mozer' period, this piece explores graffiti as archaeology. Dense layers of colorful lettering overlap like cave paintings or palimpsest walls in the Paris suburbs where tags accumulate over years. Each color represents a different voice, a different moment. The black background is the void, the night, the underground spaces where this visual language first emerged. It's about density, history compressed into surface, and the beauty in chaos.",
     description_fr: "De ma période 'Mozer' précoce, cette pièce explore le graffiti comme archéologie. Des couches denses de lettrage coloré se chevauchent comme des peintures rupestres ou des murs palimpsestes dans les banlieues parisiennes où les tags s'accumulent au fil des ans. Chaque couleur représente une voix différente, un moment différent. Le fond noir est le vide, la nuit, les espaces souterrains où ce langage visuel a émergé. C'est à propos de la densité, de l'histoire compressée en surface, et de la beauté dans le chaos."
   },
@@ -119,7 +119,7 @@ export const artworks = [
     price: 220,
     available: true,
     series: "origins-totems",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/mererouge.jpg"
+    image: "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800"
   },
   {
     id: 11,
@@ -131,7 +131,7 @@ export const artworks = [
     price: 100,
     available: true,
     series: "origins-totems",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/glamozer.jpg"
+    image: "https://images.unsplash.com/photo-1561214115-f2f134cc4912?w=800"
   },
   {
     id: 12,
@@ -143,7 +143,7 @@ export const artworks = [
     price: 450,
     available: true,
     series: "saint-martin",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/zergate.jpg"
+    image: "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?w=800"
   },
   {
     id: 13,
@@ -155,7 +155,7 @@ export const artworks = [
     price: 250,
     available: true,
     series: "origins-totems",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/mozerfull.jpg"
+    image: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=800"
   },
   {
     id: 14,
@@ -167,7 +167,7 @@ export const artworks = [
     price: 250,
     available: false,
     series: "origins-totems",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/mozerless.jpg"
+    image: "https://images.unsplash.com/photo-1549887534-1541e9326642?w=800"
   },
   {
     id: 15,
@@ -191,7 +191,7 @@ export const artworks = [
     price: 300,
     available: true,
     series: "saint-martin",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/rising.jpg"
+    image: "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=800"
   },
   {
     id: 17,
@@ -203,7 +203,7 @@ export const artworks = [
     price: 150,
     available: true,
     series: "early-mozer",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/selfmoz1.jpg"
+    image: "https://images.unsplash.com/photo-1555448248-2571daf6344b?w=800"
   },
   {
     id: 18,
@@ -215,7 +215,7 @@ export const artworks = [
     price: 300,
     available: false,
     series: "bloc-structures",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/tilt01.jpg"
+    image: "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?w=800"
   },
   {
     id: 19,
@@ -227,7 +227,7 @@ export const artworks = [
     price: 300,
     available: true,
     series: "bloc-structures",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/tilt02.jpg"
+    image: "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800"
   },
   {
     id: 20,
@@ -239,7 +239,7 @@ export const artworks = [
     price: 400,
     available: true,
     series: "bloc-structures",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/bayamere01.jpg"
+    image: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=800"
   },
   {
     id: 21,
@@ -251,7 +251,7 @@ export const artworks = [
     price: 300,
     available: true,
     series: "rise-splash",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/riseinsaintmartin-01m.jpg"
+    image: "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=800"
   },
   {
     id: 22,
@@ -263,7 +263,7 @@ export const artworks = [
     price: 350,
     available: false,
     series: "rise-splash",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/riseinsaintmartin-02m.jpg"
+    image: "https://images.unsplash.com/photo-1555448248-2571daf6344b?w=800"
   },
   {
     id: 23,
@@ -276,7 +276,7 @@ export const artworks = [
     available: true,
     series: "saint-martin",
     featured: true,
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/saintmartin01.jpg",
+    image: "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?w=800",
     description_en: "Inspired by the peripheral landscapes of Paris and the Canal Saint-Martin, this piece captures the tension between urban geometry and natural horizons. The bold triangle represents the sharp architecture cutting through the flowing water and sky, while the horizontal bands evoke the long, open spaces that make you breathe deeper when you step away from the dense city center.",
     description_fr: "Inspiré par les paysages périphériques de Paris et le Canal Saint-Martin, cette pièce capture la tension entre la géométrie urbaine et les horizons naturels. Le triangle audacieux représente l'architecture pointue traversant l'eau et le ciel fluides, tandis que les bandes horizontales évoquent les espaces longs et ouverts qui vous font respirer plus profondément lorsque vous vous éloignez du centre-ville dense."
   },
@@ -290,7 +290,7 @@ export const artworks = [
     price: 200,
     available: true,
     series: "rise-splash",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/lovesplash01.jpg"
+    image: "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800"
   },
   {
     id: 25,
@@ -302,7 +302,7 @@ export const artworks = [
     price: 200,
     available: true,
     series: "rise-splash",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/peacethrow01.jpg"
+    image: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=800"
   },
   {
     id: 26,
@@ -314,7 +314,7 @@ export const artworks = [
     price: 500,
     available: false,
     series: "rise-splash",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/riiseinsaintmartin-01s.jpg"
+    image: "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=800"
   },
   {
     id: 27,
@@ -327,7 +327,7 @@ export const artworks = [
     available: true,
     series: "rise-splash",
     featured: true,
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/riseinsaintmartin-02s.jpg",
+    image: "https://images.unsplash.com/photo-1555448248-2571daf6344b?w=800",
     description_en: "Part of the Rise series, this piece was created outdoors near the Canal Saint-Martin. The square form floats between sky and earth, spray-painted layers catching the wind and sun. The white mist below represents morning fog over water, while the warm gradient above captures the rising sun burning through Paris smog. It's about those moments when the city still feels quiet and anything seems possible.",
     description_fr: "Faisant partie de la série Rise, cette pièce a été créée en extérieur près du Canal Saint-Martin. La forme carrée flotte entre ciel et terre, les couches peintes au spray captant le vent et le soleil. La brume blanche en dessous représente le brouillard matinal sur l'eau, tandis que le dégradé chaud au-dessus capture le soleil levant brûlant à travers le smog parisien. C'est à propos de ces moments où la ville semble encore calme et tout semble possible."
   },
@@ -341,7 +341,7 @@ export const artworks = [
     price: 500,
     available: true,
     series: "rise-splash",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/riseinsaintmartin-03m.jpg"
+    image: "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?w=800"
   },
   {
     id: 29,
@@ -354,7 +354,7 @@ export const artworks = [
     available: true,
     series: "saint-martin",
     featured: true,
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/merrouge.jpg",
+    image: "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800",
     description_en: "The Red Sea - not the biblical one, but the industrial red brick facades reflecting in the canal water at sunset. This large piece combines masking tape geometry with spray paint atmosphere. The sharp yellow triangle cuts through like a construction crane or church spire, while the gradient below shifts from deep red to white like light on moving water. Created during the 2021 lockdowns when Paris felt both emptier and more visible.",
     description_fr: "La Mer Rouge - pas celle biblique, mais les façades de briques rouges industrielles se reflétant dans l'eau du canal au coucher du soleil. Cette grande pièce combine la géométrie du ruban de masquage avec l'atmosphère de la peinture en spray. Le triangle jaune pointu traverse comme une grue de construction ou un clocher d'église, tandis que le dégradé en dessous passe du rouge profond au blanc comme la lumière sur l'eau en mouvement. Créé pendant les confinements de 2021 quand Paris semblait à la fois plus vide et plus visible."
   },
@@ -368,7 +368,7 @@ export const artworks = [
     price: 1200,
     available: false,
     series: "saint-martin",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/rivieresaintmartin01.jpg"
+    image: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=800"
   },
   {
     id: 31,
@@ -380,7 +380,7 @@ export const artworks = [
     price: 650,
     available: true,
     series: "saint-martin",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/bloodytown01.jpg"
+    image: "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=800"
   },
   {
     id: 32,
@@ -392,7 +392,7 @@ export const artworks = [
     price: 800,
     available: true,
     series: "saint-martin",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/rainycity01.jpg"
+    image: "https://images.unsplash.com/photo-1555448248-2571daf6344b?w=800"
   },
   {
     id: 33,
@@ -405,7 +405,7 @@ export const artworks = [
     available: true,
     series: "bloc-structures",
     featured: true,
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/prismozer01.jpg",
+    image: "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?w=800",
     description_en: "Urban abstraction merging city lights with prism physics. The pink diamond hovers in a gradient that moves from sunrise yellow to deep ocean blue, with white mist between like morning air. This piece references both the glass towers of La Défense and the way light refracts through Paris's humid atmosphere. The geometric precision comes from hours of taping and measuring, but the spray creates that unpredictable atmospheric quality you can't fully control - which is the point.",
     description_fr: "Abstraction urbaine fusionnant les lumières de la ville avec la physique du prisme. Le diamant rose flotte dans un dégradé qui va du jaune lever de soleil au bleu océan profond, avec de la brume blanche entre comme l'air du matin. Cette pièce fait référence à la fois aux tours de verre de La Défense et à la façon dont la lumière se réfracte à travers l'atmosphère humide de Paris. La précision géométrique vient des heures de ruban adhésif et de mesure, mais le spray crée cette qualité atmosphérique imprévisible qu'on ne peut pas complètement contrôler - et c'est le but."
   },
@@ -419,7 +419,7 @@ export const artworks = [
     price: 350,
     available: true,
     series: "bloc-structures",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/bloc01.jpg"
+    image: "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800"
   },
   {
     id: 35,
@@ -431,7 +431,7 @@ export const artworks = [
     price: 350,
     available: false,
     series: "bloc-structures",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/bloc02.jpg"
+    image: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=800"
   },
   {
     id: 36,
@@ -443,7 +443,7 @@ export const artworks = [
     price: 350,
     available: true,
     series: "bloc-structures",
-    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/bloc03.jpg"
+    image: "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=800"
   }
 ];
 
