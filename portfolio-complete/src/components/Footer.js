@@ -14,7 +14,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Brand */}
           <div>
-            <h3 className="text-2xl font-bold mb-4">ALEXI DELFIEUX</h3>
+            <h3 className="text-2xl font-bold mb-4">ALEXI aka MOZER</h3>
             <p className="text-gray-400 text-sm">
               {t(translations.hero.subtitle)}
             </p>

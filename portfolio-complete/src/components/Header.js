@@ -25,7 +25,7 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link to="/" className="text-2xl font-bold text-black hover:text-pink-600 transition-colors">
-            ALEXI DELFIEUX
+            ALEXI aka MOZER
           </Link>
 
           {/* Desktop Navigation */}

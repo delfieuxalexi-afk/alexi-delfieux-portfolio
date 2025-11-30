@@ -69,7 +69,7 @@ export const artworks = [
     price: 360,
     available: true,
     series: "origins-totems",
-    image: "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?w=800"
+    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/3reclessmonkeys.jpg"
   },
   {
     id: 7,
@@ -179,7 +179,7 @@ export const artworks = [
     price: 1000,
     available: true,
     series: "origins-totems",
-    image: "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?w=800"
+    image: "https://raw.githubusercontent.com/delfieuxalexi-afk/alexi-delfieux-portfolio/main/portfolio-complete/artwork-images/mmeclaudzer.jpg"
   },
   {
     id: 16,

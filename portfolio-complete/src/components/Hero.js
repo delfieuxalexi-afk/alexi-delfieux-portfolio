@@ -22,7 +22,7 @@ const Hero = () => {
           {/* Text Content */}
           <div className="text-center lg:text-left">
             <h1 className="text-6xl sm:text-7xl lg:text-8xl font-bold text-gray-900 mb-4 leading-tight">
-              ALEXI<br />DELFIEUX
+              ALEXI<br />aka MOZER
             </h1>
             <p className="text-xl sm:text-2xl text-gray-600 mb-6">
               {t(translations.hero.subtitle)}

@@ -29,7 +29,7 @@ const ArtworkModal = ({ artwork, isOpen, onClose }) => {
 
   return (
     <Dialog open={isOpen} onOpenChange={onClose}>
-      <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto p-0">
+      <DialogContent className="max-w-6xl max-h-[95vh] overflow-y-auto p-0">
         <div className="relative">
           {/* Close button */}
           <button
@@ -39,12 +39,12 @@ const ArtworkModal = ({ artwork, isOpen, onClose }) => {
             <X size={20} />
           </button>
 
-          {/* Image */}
-          <div className="relative w-full aspect-square bg-gray-100">
+          {/* Image with zoom on hover */}
+          <div className="relative w-full bg-gray-100 overflow-hidden group">
             <img
               src={artwork.image}
               alt={artwork.title}
-              className="w-full h-full object-cover"
+              className="w-full h-auto object-contain max-h-[70vh] transition-transform duration-500 group-hover:scale-110"
             />
             {/* Availability Badge */}
             <div className="absolute top-4 left-4">
